@@ -35,7 +35,7 @@
     <string name="dialog_ok">Tamam</string>
     <string name="dialog_yes">Evet</string>
     <string name="download_current_rom">Son çıkan Full Romu indir</string>
-    <string name="download_ota_rom">Ota update\'i indir (%s)</string>
+    <string name="download_ota_rom">OTA update\'i indir (%s)</string>
     <string name="download_whole_rom">FULL romu indir (%s)</string>
     <string name="downloading_description">İndiriliyor...</string>
     <string name="emegency_build">Yapım:</string>
